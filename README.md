@@ -1,2 +1,2 @@
 # Python-projects
-These projects are made in python , author - Garv Mittal
+These projects are made in python <br> author - Garv Mittal
